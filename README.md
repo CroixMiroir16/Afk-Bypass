@@ -7,3 +7,5 @@
 » Accès libre, faites ce que vous voulez.
 
 ## Par : CroixMiroir16
+
+![Bypass](https://raw.githubusercontent.com/CroixMiroir16/Afk-Bypass/main/minecraft_title.png) 
